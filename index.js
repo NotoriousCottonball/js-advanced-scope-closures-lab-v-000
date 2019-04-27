@@ -6,5 +6,5 @@ function produceDrivingRange(blockRange){
      } else {
             return `${delta - blockRange} blocks out of range`;
      }
-  }
+  };
 }
